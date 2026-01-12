@@ -1,0 +1,5 @@
+{
+  "name": "FRE_POLGenerator RPM_DEEP LEARNING",
+  "description": "An application to generate a Deep Learning Plan (Rencana Pembelajaran Mendalam - RPM) for all educational levels and subjects based on user input, leveraging the Gemini API for content creation.",
+  "requestFramePermissions": []
+}
